@@ -1,0 +1,9 @@
+# Large data files
+lap_times.csv
+races.csv
+drivers.csv
+circuits.csv
+
+# Keep the cleaned data and model
+*.pyc
+__pycache__/
